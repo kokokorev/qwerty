@@ -1,7 +1,7 @@
 ﻿using MigraDoc.DocumentObjectModel;
 using MigraDoc.DocumentObjectModel.Tables;
 
-namespace Lab_2
+namespace NonVisualComponents
 {
     public class PdfCellParameters
     {

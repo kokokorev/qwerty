@@ -4,7 +4,7 @@ using System.ComponentModel;
 using Xceed.Document.NET;
 using Xceed.Words.NET;
 
-namespace Lab_2
+namespace NonVisualComponents
 {
     public partial class WordDiagram : Component
     {

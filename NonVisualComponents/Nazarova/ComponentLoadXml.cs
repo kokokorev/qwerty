@@ -5,7 +5,7 @@ using System.Linq;
 using System.IO.Compression;
 using System.Xml.Serialization;
 
-namespace Lab_2
+namespace NonVisualComponents
 {
     public partial class ComponentLoadXml : Component
     {

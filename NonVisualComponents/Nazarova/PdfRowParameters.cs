@@ -2,7 +2,7 @@
 using MigraDoc.DocumentObjectModel.Tables;
 using System.Collections.Generic;
 
-namespace Lab_2
+namespace NonVisualComponents
 {
     public class PdfRowParameters
     {

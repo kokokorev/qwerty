@@ -7,7 +7,7 @@ using System.Collections.Generic;
 using System.ComponentModel;
 using System.IO;
 
-namespace Lab_2
+namespace NonVisualComponents
 {
     public partial class PdfTable : Component
     {

@@ -1,5 +1,5 @@
 ﻿
-namespace Lab_2
+namespace NonVisualComponents
 {
     partial class WordDiagram
     {
