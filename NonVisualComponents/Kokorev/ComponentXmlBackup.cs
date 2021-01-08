@@ -4,7 +4,7 @@ using System.IO;
 using System.IO.Compression;
 using System.Xml.Serialization;
 
-namespace NonVisualComponents
+namespace NonVisualComponents.Kokorev
 {
     public partial class ComponentBackupXml : Component
     {

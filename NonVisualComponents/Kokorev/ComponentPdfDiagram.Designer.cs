@@ -1,6 +1,6 @@
 ﻿using System.ComponentModel;
 
-namespace NonVisualComponents
+namespace NonVisualComponents.Kokorev
 {
     partial class ComponentPdfDiagram
     {

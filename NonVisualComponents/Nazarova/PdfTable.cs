@@ -1,13 +1,13 @@
-﻿using MigraDoc.DocumentObjectModel;
-using MigraDoc.DocumentObjectModel.Tables;
-using MigraDoc.Rendering;
-using PdfSharp.Pdf;
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.IO;
+using MigraDoc.DocumentObjectModel;
+using MigraDoc.DocumentObjectModel.Tables;
+using MigraDoc.Rendering;
+using PdfSharp.Pdf;
 
-namespace NonVisualComponents
+namespace NonVisualComponents.Nazarova
 {
     public partial class PdfTable : Component
     {

@@ -1,4 +1,6 @@
-﻿namespace View
+﻿using VisualComponents.Kokorev;
+
+namespace View
 {
     partial class Form1
     {
@@ -28,9 +30,9 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.controlComboBox = new Components.ControlComboBox();
-            this.controlTextBox = new Components.ControlTextBox();
-            this.controlListBox = new Components.ControlListBox();
+            this.controlComboBox = new ControlComboBox();
+            this.controlTextBox = new ControlTextBox();
+            this.controlListBox = new ControlListBox();
             this.SuspendLayout();
             // 
             // controlComboBox
@@ -73,8 +75,8 @@
 
         #endregion
 
-        private Components.ControlComboBox controlComboBox;
-        private Components.ControlTextBox controlTextBox;
-        private Components.ControlListBox controlListBox;
+        private ControlComboBox controlComboBox;
+        private ControlTextBox controlTextBox;
+        private ControlListBox controlListBox;
     }
 }

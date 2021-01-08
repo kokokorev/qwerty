@@ -1,4 +1,4 @@
-﻿namespace Components
+﻿namespace VisualComponents.Kokorev
 {
     partial class ControlComboBox
     {

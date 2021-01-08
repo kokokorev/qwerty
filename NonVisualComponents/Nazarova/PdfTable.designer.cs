@@ -1,5 +1,5 @@
 ﻿
-namespace NonVisualComponents
+namespace NonVisualComponents.Nazarova
 {
     partial class PdfTable
     {

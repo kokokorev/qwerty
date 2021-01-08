@@ -1,7 +1,7 @@
 ﻿using MigraDoc.DocumentObjectModel;
 using MigraDoc.DocumentObjectModel.Tables;
 
-namespace NonVisualComponents
+namespace NonVisualComponents.Nazarova
 {
     public class PdfCellParameters
     {

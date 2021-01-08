@@ -9,7 +9,7 @@ using DocumentFormat.OpenXml.Office2013.Excel;
 using DocumentFormat.OpenXml.Packaging;
 using DocumentFormat.OpenXml.Spreadsheet;
 
-namespace NonVisualComponents
+namespace NonVisualComponents.Kokorev
 {
     public partial class ComponentExcelReport : Component
     {

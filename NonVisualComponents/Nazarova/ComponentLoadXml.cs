@@ -1,11 +1,11 @@
 ﻿using System;
 using System.ComponentModel;
 using System.IO;
-using System.Linq;
 using System.IO.Compression;
+using System.Linq;
 using System.Xml.Serialization;
 
-namespace NonVisualComponents
+namespace NonVisualComponents.Nazarova
 {
     public partial class ComponentLoadXml : Component
     {

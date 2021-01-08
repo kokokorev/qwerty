@@ -2,7 +2,7 @@
 using DocumentFormat.OpenXml.Packaging;
 using DocumentFormat.OpenXml.Spreadsheet;
 
-namespace NonVisualComponents
+namespace NonVisualComponents.Kokorev
 {
     public class ExcelCellParameters
     {

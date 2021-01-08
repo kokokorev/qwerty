@@ -4,7 +4,7 @@ using System.ComponentModel;
 using Xceed.Document.NET;
 using Xceed.Words.NET;
 
-namespace NonVisualComponents
+namespace NonVisualComponents.Nazarova
 {
     public partial class WordDiagram : Component
     {

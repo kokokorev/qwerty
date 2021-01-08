@@ -1,8 +1,8 @@
-﻿using MigraDoc.DocumentObjectModel;
+﻿using System.Collections.Generic;
+using MigraDoc.DocumentObjectModel;
 using MigraDoc.DocumentObjectModel.Tables;
-using System.Collections.Generic;
 
-namespace NonVisualComponents
+namespace NonVisualComponents.Nazarova
 {
     public class PdfRowParameters
     {

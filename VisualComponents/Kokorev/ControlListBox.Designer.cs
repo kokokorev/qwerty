@@ -1,6 +1,6 @@
 ﻿using System.ComponentModel;
 
-namespace Components
+namespace VisualComponents.Kokorev
 {
     partial class ControlListBox
     {

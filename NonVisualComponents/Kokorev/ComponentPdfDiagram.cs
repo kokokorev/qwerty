@@ -1,12 +1,12 @@
-﻿using MigraDoc.DocumentObjectModel;
-using MigraDoc.DocumentObjectModel.Shapes.Charts;
-using MigraDoc.Rendering;
-using System;
+﻿using System;
 using System.ComponentModel;
 using System.Reflection;
+using MigraDoc.DocumentObjectModel;
+using MigraDoc.DocumentObjectModel.Shapes.Charts;
+using MigraDoc.Rendering;
 using DataLabelType = MigraDoc.DocumentObjectModel.Shapes.Charts.DataLabelType;
 
-namespace NonVisualComponents
+namespace NonVisualComponents.Kokorev
 {
     public partial class ComponentPdfDiagram : Component
     {

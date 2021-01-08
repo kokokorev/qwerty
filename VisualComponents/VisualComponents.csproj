@@ -7,7 +7,7 @@
     <ProjectGuid>{9324A114-CE56-4D7C-8E78-188A1198B2F7}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Components</RootNamespace>
+    <RootNamespace>VisualComponents</RootNamespace>
     <AssemblyName>VisualComponents</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>

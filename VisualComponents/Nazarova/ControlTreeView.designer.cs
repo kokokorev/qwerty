@@ -1,4 +1,4 @@
-﻿namespace KoP_8var_CL
+﻿namespace VisualComponents.Nazarova
 {
     partial class ControlTreeView
     {

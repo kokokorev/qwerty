@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Windows.Forms;
 
-namespace Components
+namespace VisualComponents.Kokorev
 {
     public partial class ControlListBox : UserControl
     {
