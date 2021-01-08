@@ -61,6 +61,24 @@
     <Compile Include="Kokorev\ControlTextBox.Designer.cs">
       <DependentUpon>ControlTextBox.cs</DependentUpon>
     </Compile>
+    <Compile Include="Nazarova\ControlCheckedListBox.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Nazarova\ControlCheckedListBox.designer.cs">
+      <DependentUpon>ControlCheckedListBox.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Nazarova\ControlNumericalUpDown.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Nazarova\ControlNumericalUpDown.designer.cs">
+      <DependentUpon>ControlNumericalUpDown.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Nazarova\ControlTreeView.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Nazarova\ControlTreeView.designer.cs">
+      <DependentUpon>ControlTreeView.cs</DependentUpon>
+    </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
@@ -72,6 +90,15 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Kokorev\ControlTextBox.resx">
       <DependentUpon>ControlTextBox.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Nazarova\ControlCheckedListBox.resx">
+      <DependentUpon>ControlCheckedListBox.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Nazarova\ControlNumericalUpDown.resx">
+      <DependentUpon>ControlNumericalUpDown.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Nazarova\ControlTreeView.resx">
+      <DependentUpon>ControlTreeView.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
