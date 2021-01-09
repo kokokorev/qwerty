@@ -1,5 +1,5 @@
 ﻿using System;
-using EmployeeDatabase.Models;
+using EmployeeBusinessLogic.Enums;
 
 namespace EmployeeBusinessLogic.BindingModel
 {

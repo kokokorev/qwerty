@@ -1,6 +1,6 @@
 ﻿using System.Collections.Generic;
 using EmployeeBusinessLogic.BindingModel;
-using EmployeeDatabase.Models;
+using EmployeeBusinessLogic.ViewModel;
 
 namespace EmployeeBusinessLogic.Interface
 {
@@ -8,7 +8,7 @@ namespace EmployeeBusinessLogic.Interface
     {
         void CreateOrUpdate(EmployeeBindingModel model);
 
-        List<Employee> Read(EmployeeBindingModel filter);
+        List<EmployeeViewModel> Read(EmployeeBindingModel filter);
 
         void Delete(EmployeeBindingModel model);
     }

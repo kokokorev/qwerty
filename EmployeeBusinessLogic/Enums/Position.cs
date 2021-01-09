@@ -1,4 +1,4 @@
-﻿namespace EmployeeDatabase.Models
+﻿namespace EmployeeBusinessLogic.Enums
 {
     public enum Position
     {
