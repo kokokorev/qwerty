@@ -28,8 +28,8 @@ namespace NonVisualComponents.Kokorev
         /// <typeparam name="T">какой то тип</typeparam>
         public void CreateXmlBackup<T>(T[] data, string path)
         {
-            if (File.Exists($"{path}/backup.rar")) 
-                File.Delete($"{path}/backup.rar");
+            if (File.Exists($"{path}/backup.zip")) 
+                File.Delete($"{path}/backup.zip");
             var type = data.GetType();
             if (!type.IsSerializable) 
                 throw new Exception("Класс не сериализуемый");
@@ -46,7 +46,7 @@ namespace NonVisualComponents.Kokorev
                     serializer.Serialize(output, data);
                 }
 
-                var archName = $"{path}/backup.rar";
+                var archName = $"{path}/backup.zip";
                 ZipFile.CreateFromDirectory(tempPath, archName);
                 tempDir.Delete(true);
             }

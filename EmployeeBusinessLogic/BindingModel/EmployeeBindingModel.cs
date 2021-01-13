@@ -11,6 +11,9 @@ namespace EmployeeBusinessLogic.BindingModel
 
         public DateTime? VacationStart { get; set; }
         
+        /// <summary>
+        /// должность сотрудника
+        /// </summary>
         public Position Position { get; set; }
     }
 }

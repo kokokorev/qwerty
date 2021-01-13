@@ -12,6 +12,9 @@ namespace EmployeeDatabase.Models
 
         public DateTime? VacationStart { get; set; }
 
+        /// <summary>
+        /// должность сотрудника
+        /// </summary>
         [Required] public Position Position { get; set; }
     }
 }

@@ -85,6 +85,19 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="ComponentWord.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="ComponentWord.Designer.cs">
+      <DependentUpon>ComponentWord.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ComponentWordHistogram.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="ComponentWordHistogram.Designer.cs">
+      <DependentUpon>ComponentWordHistogram.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DiagramModel.cs" />
     <Compile Include="Kokorev\ComponentExcelReport.cs">
       <SubType>Component</SubType>
     </Compile>
