@@ -32,6 +32,7 @@ bld/
 [Ll]ogs/
 
 EmployeeDatabase/Database.cs
+EmployeeDatabase/Migrations/
 # JetBrains Rider cache/options directory
 .idea/
 # Visual Studio 2015/2017 cache/options directory
