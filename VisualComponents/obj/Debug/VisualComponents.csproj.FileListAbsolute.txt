@@ -1,0 +1,12 @@
+D:\dev\c#\kop\VisualComponents\bin\Debug\VisualComponents.dll
+D:\dev\c#\kop\VisualComponents\bin\Debug\VisualComponents.pdb
+D:\dev\c#\kop\VisualComponents\obj\Debug\VisualComponents.csprojAssemblyReference.cache
+D:\dev\c#\kop\VisualComponents\obj\Debug\VisualComponents.csproj.GenerateResource.cache
+D:\dev\c#\kop\VisualComponents\obj\Debug\VisualComponents.dll
+D:\dev\c#\kop\VisualComponents\obj\Debug\VisualComponents.pdb
+D:\dev\c#\kop\VisualComponents\obj\Debug\VisualComponents.Kokorev.ControlComboBox.resources
+D:\dev\c#\kop\VisualComponents\obj\Debug\VisualComponents.Kokorev.ControlListBox.resources
+D:\dev\c#\kop\VisualComponents\obj\Debug\VisualComponents.Kokorev.ControlTextBox.resources
+D:\dev\c#\kop\VisualComponents\obj\Debug\VisualComponents.Nazarova.ControlCheckedListBox.resources
+D:\dev\c#\kop\VisualComponents\obj\Debug\VisualComponents.Nazarova.ControlNumericalUpDown.resources
+D:\dev\c#\kop\VisualComponents\obj\Debug\VisualComponents.Nazarova.ControlTreeView.resources

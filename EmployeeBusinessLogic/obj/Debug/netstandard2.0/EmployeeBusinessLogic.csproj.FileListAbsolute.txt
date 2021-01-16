@@ -1,0 +1,8 @@
+D:\dev\c#\kop\EmployeeBusinessLogic\bin\Debug\netstandard2.0\EmployeeBusinessLogic.deps.json
+D:\dev\c#\kop\EmployeeBusinessLogic\bin\Debug\netstandard2.0\EmployeeBusinessLogic.dll
+D:\dev\c#\kop\EmployeeBusinessLogic\bin\Debug\netstandard2.0\EmployeeBusinessLogic.pdb
+D:\dev\c#\kop\EmployeeBusinessLogic\obj\Debug\netstandard2.0\EmployeeBusinessLogic.csprojAssemblyReference.cache
+D:\dev\c#\kop\EmployeeBusinessLogic\obj\Debug\netstandard2.0\EmployeeBusinessLogic.AssemblyInfoInputs.cache
+D:\dev\c#\kop\EmployeeBusinessLogic\obj\Debug\netstandard2.0\EmployeeBusinessLogic.AssemblyInfo.cs
+D:\dev\c#\kop\EmployeeBusinessLogic\obj\Debug\netstandard2.0\EmployeeBusinessLogic.dll
+D:\dev\c#\kop\EmployeeBusinessLogic\obj\Debug\netstandard2.0\EmployeeBusinessLogic.pdb

@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\train\AppData\Local\JetBrains\Rider2020.2\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\train\AppData\Local\JetBrains\Rider2020.2\resharper-host\Local\Transient\Rider\v202\SolutionCaches\_kop.509685633.00" t="ExcludeRecursive" />
+    <e p="D:\dev\c#\kop" t="IncludeFlat">
+      <e p="ClassLibraryCreationalPatterns" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="ClassLibraryCreationalPatterns.csproj" t="IncludeRecursive" />
+        <e p="Kokorev" t="Include">
+          <e p="ComponentCreateEmployee.cs" t="Include" />
+          <e p="ComponentCreateEmployee.Designer.cs" t="Include" />
+          <e p="EmployeeBuilderDirector.cs" t="Include" />
+          <e p="IEmployeeBuilder.cs" t="Include" />
+          <e p="JuniorBuilder.cs" t="Include" />
+          <e p="MiddleBuilder.cs" t="Include" />
+          <e p="SeniorBuilder.cs" t="Include" />
+        </e>
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+      </e>
+      <e p="EmployeeBusinessLogic" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="BindingModel" t="Include">
+          <e p="EmployeeBindingModel.cs" t="Include" />
+        </e>
+        <e p="EmployeeBusinessLogic.csproj" t="IncludeRecursive" />
+        <e p="Enums" t="Include">
+          <e p="Position.cs" t="Include" />
+        </e>
+        <e p="Interface" t="Include">
+          <e p="IEmployee.cs" t="Include" />
+        </e>
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netstandard2.0" t="Include">
+              <e p="EmployeeBusinessLogic.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="ViewModel" t="Include">
+          <e p="EmployeeViewModel.cs" t="Include" />
+        </e>
+      </e>
+      <e p="EmployeeDatabase" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Database.cs" t="Include" />
+        <e p="EmployeeDatabase.csproj" t="IncludeRecursive" />
+        <e p="Implements" t="Include">
+          <e p="EmployeeLogic.cs" t="Include" />
+        </e>
+        <e p="Migrations" t="Include" />
+        <e p="Models" t="Include">
+          <e p="Employee.cs" t="Include" />
+        </e>
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netstandard2.0" t="Include">
+              <e p="EmployeeDatabase.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="EmployeeView" t="IncludeRecursive">
+        <e p="App.config" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="CreateEmployeeForm.cs" t="Include" />
+        <e p="CreateEmployeeForm.Designer.cs" t="Include" />
+        <e p="CreateEmployeeForm.resx" t="Include" />
+        <e p="EmployeeView.csproj" t="IncludeRecursive" />
+        <e p="MainForm.cs" t="Include" />
+        <e p="MainForm.Designer.cs" t="Include" />
+        <e p="MainForm.resx" t="Include" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="packages.config" t="Include" />
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+          <e p="Resources.Designer.cs" t="Include" />
+          <e p="Resources.resx" t="Include" />
+          <e p="Settings.Designer.cs" t="Include" />
+          <e p="Settings.settings" t="Include" />
+        </e>
+      </e>
+      <e p="first" t="Include" />
+      <e p="fourth" t="Include" />
+      <e p="kop.sln" t="IncludeFlat" />
+      <e p="NonVisualComponents" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="ComponentWord.cs" t="Include" />
+        <e p="ComponentWord.Designer.cs" t="Include" />
+        <e p="ComponentWordHistogram.cs" t="Include" />
+        <e p="ComponentWordHistogram.Designer.cs" t="Include" />
+        <e p="DiagramModel.cs" t="Include" />
+        <e p="Kokorev" t="Include">
+          <e p="ComponentExcelReport.cs" t="Include" />
+          <e p="ComponentExcelReport.Designer.cs" t="Include" />
+          <e p="ComponentPdfDiagram.cs" t="Include" />
+          <e p="ComponentPdfDiagram.Designer.cs" t="Include" />
+          <e p="ComponentXmlBackup.cs" t="Include" />
+          <e p="ComponentXmlBackup.Designer.cs" t="Include" />
+          <e p="ExcelCellParameters.cs" t="Include" />
+        </e>
+        <e p="Nazarova" t="Include">
+          <e p="ComponentLoadXml.cs" t="Include" />
+          <e p="ComponentLoadXml.designer.cs" t="Include" />
+          <e p="PdfCellParameters.cs" t="Include" />
+          <e p="PdfRowParameters.cs" t="Include" />
+          <e p="PdfTable.cs" t="Include" />
+          <e p="PdfTable.designer.cs" t="Include" />
+          <e p="WordDiagram.cs" t="Include" />
+          <e p="WordDiagram.designer.cs" t="Include" />
+        </e>
+        <e p="NonVisualComponents.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="packages.config" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+          <e p="Resources.Designer.cs" t="Include" />
+          <e p="Resources.resx" t="Include" />
+          <e p="Settings.Designer.cs" t="Include" />
+          <e p="Settings.settings" t="Include" />
+        </e>
+      </e>
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="second" t="Include" />
+      <e p="third" t="Include" />
+      <e p="View" t="IncludeRecursive">
+        <e p="App.config" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Form1.cs" t="Include" />
+        <e p="Form1.Designer.cs" t="Include" />
+        <e p="Form1.resx" t="Include" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+          <e p="Resources.Designer.cs" t="Include" />
+          <e p="Resources.resx" t="Include" />
+          <e p="Settings.Designer.cs" t="Include" />
+          <e p="Settings.settings" t="Include" />
+        </e>
+        <e p="SomeClass.cs" t="Include" />
+        <e p="View.csproj" t="IncludeRecursive" />
+      </e>
+      <e p="VisualComponents" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Kokorev" t="Include">
+          <e p="ControlComboBox.cs" t="Include" />
+          <e p="ControlComboBox.Designer.cs" t="Include" />
+          <e p="ControlComboBox.resx" t="Include" />
+          <e p="ControlListBox.cs" t="Include" />
+          <e p="ControlListBox.Designer.cs" t="Include" />
+          <e p="ControlListBox.resx" t="Include" />
+          <e p="ControlTextBox.cs" t="Include" />
+          <e p="ControlTextBox.Designer.cs" t="Include" />
+          <e p="ControlTextBox.resx" t="Include" />
+        </e>
+        <e p="Nazarova" t="Include">
+          <e p="ControlCheckedListBox.cs" t="Include" />
+          <e p="ControlCheckedListBox.designer.cs" t="Include" />
+          <e p="ControlCheckedListBox.resx" t="Include" />
+          <e p="ControlNumericalUpDown.cs" t="Include" />
+          <e p="ControlNumericalUpDown.designer.cs" t="Include" />
+          <e p="ControlNumericalUpDown.resx" t="Include" />
+          <e p="ControlTreeView.cs" t="Include" />
+          <e p="ControlTreeView.designer.cs" t="Include" />
+          <e p="ControlTreeView.resx" t="Include" />
+        </e>
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+        <e p="VisualComponents.csproj" t="IncludeRecursive" />
+      </e>
+    </e>
+  </component>
+</project>

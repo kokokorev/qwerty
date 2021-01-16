@@ -1,0 +1,11 @@
+D:\dev\c#\kop\EmployeeDatabase\bin\Debug\netstandard2.1\EmployeeDatabase.deps.json
+D:\dev\c#\kop\EmployeeDatabase\bin\Debug\netstandard2.1\EmployeeDatabase.dll
+D:\dev\c#\kop\EmployeeDatabase\bin\Debug\netstandard2.1\EmployeeDatabase.pdb
+D:\dev\c#\kop\EmployeeDatabase\bin\Debug\netstandard2.1\EmployeeBusinessLogic.dll
+D:\dev\c#\kop\EmployeeDatabase\bin\Debug\netstandard2.1\EmployeeBusinessLogic.pdb
+D:\dev\c#\kop\EmployeeDatabase\obj\Debug\netstandard2.1\EmployeeDatabase.csprojAssemblyReference.cache
+D:\dev\c#\kop\EmployeeDatabase\obj\Debug\netstandard2.1\EmployeeDatabase.AssemblyInfoInputs.cache
+D:\dev\c#\kop\EmployeeDatabase\obj\Debug\netstandard2.1\EmployeeDatabase.AssemblyInfo.cs
+D:\dev\c#\kop\EmployeeDatabase\obj\Debug\netstandard2.1\EmployeeDatabase.csproj.CopyComplete
+D:\dev\c#\kop\EmployeeDatabase\obj\Debug\netstandard2.1\EmployeeDatabase.dll
+D:\dev\c#\kop\EmployeeDatabase\obj\Debug\netstandard2.1\EmployeeDatabase.pdb

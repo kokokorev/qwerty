@@ -1,0 +1,9 @@
+D:\dev\c#\kop\Components\bin\Debug\Components.dll
+D:\dev\c#\kop\Components\bin\Debug\Components.pdb
+D:\dev\c#\kop\Components\obj\Debug\Components.csprojAssemblyReference.cache
+D:\dev\c#\kop\Components\obj\Debug\Components.ControlComboBox.resources
+D:\dev\c#\kop\Components\obj\Debug\Components.csproj.GenerateResource.cache
+D:\dev\c#\kop\Components\obj\Debug\Components.dll
+D:\dev\c#\kop\Components\obj\Debug\Components.pdb
+D:\dev\c#\kop\Components\obj\Debug\Components.ControlTextBox.resources
+D:\dev\c#\kop\Components\obj\Debug\Components.ControlListBox.resources
