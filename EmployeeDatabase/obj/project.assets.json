@@ -7494,11 +7494,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\dev\\c#\\kop\\EmployeeDatabase\\EmployeeDatabase.csproj",
+      "projectUniqueName": "C:\\Users\\train\\Desktop\\kop\\EmployeeDatabase\\EmployeeDatabase.csproj",
       "projectName": "EmployeeDatabase",
-      "projectPath": "D:\\dev\\c#\\kop\\EmployeeDatabase\\EmployeeDatabase.csproj",
+      "projectPath": "C:\\Users\\train\\Desktop\\kop\\EmployeeDatabase\\EmployeeDatabase.csproj",
       "packagesPath": "C:\\Users\\train\\.nuget\\packages\\",
-      "outputPath": "D:\\dev\\c#\\kop\\EmployeeDatabase\\obj\\",
+      "outputPath": "C:\\Users\\train\\Desktop\\kop\\EmployeeDatabase\\obj\\",
       "projectStyle": "PackageReference",
       "crossTargeting": true,
       "fallbackFolders": [
@@ -7518,8 +7518,8 @@
       "frameworks": {
         "netstandard2.0": {
           "projectReferences": {
-            "D:\\dev\\c#\\kop\\EmployeeBusinessLogic\\EmployeeBusinessLogic.csproj": {
-              "projectPath": "D:\\dev\\c#\\kop\\EmployeeBusinessLogic\\EmployeeBusinessLogic.csproj"
+            "C:\\Users\\train\\Desktop\\kop\\EmployeeBusinessLogic\\EmployeeBusinessLogic.csproj": {
+              "projectPath": "C:\\Users\\train\\Desktop\\kop\\EmployeeBusinessLogic\\EmployeeBusinessLogic.csproj"
             }
           }
         }

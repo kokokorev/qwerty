@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\dev\\c#\\kop\\EmployeeBusinessLogic\\EmployeeBusinessLogic.csproj": {}
+    "C:\\Users\\train\\Desktop\\kop\\EmployeeBusinessLogic\\EmployeeBusinessLogic.csproj": {}
   },
   "projects": {
-    "D:\\dev\\c#\\kop\\EmployeeBusinessLogic\\EmployeeBusinessLogic.csproj": {
+    "C:\\Users\\train\\Desktop\\kop\\EmployeeBusinessLogic\\EmployeeBusinessLogic.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\dev\\c#\\kop\\EmployeeBusinessLogic\\EmployeeBusinessLogic.csproj",
+        "projectUniqueName": "C:\\Users\\train\\Desktop\\kop\\EmployeeBusinessLogic\\EmployeeBusinessLogic.csproj",
         "projectName": "EmployeeBusinessLogic",
-        "projectPath": "D:\\dev\\c#\\kop\\EmployeeBusinessLogic\\EmployeeBusinessLogic.csproj",
+        "projectPath": "C:\\Users\\train\\Desktop\\kop\\EmployeeBusinessLogic\\EmployeeBusinessLogic.csproj",
         "packagesPath": "C:\\Users\\train\\.nuget\\packages\\",
-        "outputPath": "D:\\dev\\c#\\kop\\EmployeeBusinessLogic\\obj\\",
+        "outputPath": "C:\\Users\\train\\Desktop\\kop\\EmployeeBusinessLogic\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

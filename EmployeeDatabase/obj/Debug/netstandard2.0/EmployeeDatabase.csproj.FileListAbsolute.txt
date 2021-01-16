@@ -9,3 +9,8 @@ D:\dev\c#\kop\EmployeeDatabase\bin\Debug\netstandard2.0\EmployeeBusinessLogic.pd
 D:\dev\c#\kop\EmployeeDatabase\obj\Debug\netstandard2.0\EmployeeDatabase.csproj.CopyComplete
 D:\dev\c#\kop\EmployeeDatabase\obj\Debug\netstandard2.0\EmployeeDatabase.dll
 D:\dev\c#\kop\EmployeeDatabase\obj\Debug\netstandard2.0\EmployeeDatabase.pdb
+C:\Users\train\Desktop\kop\EmployeeDatabase\obj\Debug\netstandard2.0\EmployeeDatabase.csprojAssemblyReference.cache
+C:\Users\train\Desktop\kop\EmployeeDatabase\obj\Debug\netstandard2.0\EmployeeDatabase.AssemblyInfoInputs.cache
+C:\Users\train\Desktop\kop\EmployeeDatabase\obj\Debug\netstandard2.0\EmployeeDatabase.AssemblyInfo.cs
+C:\Users\train\Desktop\kop\EmployeeDatabase\obj\Debug\netstandard2.0\EmployeeDatabase.dll
+C:\Users\train\Desktop\kop\EmployeeDatabase\obj\Debug\netstandard2.0\EmployeeDatabase.pdb
